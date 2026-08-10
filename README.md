@@ -8,6 +8,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -39,6 +40,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
