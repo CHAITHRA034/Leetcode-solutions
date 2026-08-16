@@ -13,6 +13,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
