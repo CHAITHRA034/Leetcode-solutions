@@ -37,6 +37,7 @@
 | [0344-reverse-string](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0925-long-pressed-name](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -82,6 +83,7 @@
 | [0500-keyboard-row](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0925-long-pressed-name](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
