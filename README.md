@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0500-keyboard-row](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -45,6 +46,7 @@
 | [0016-3sum-closest](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 ## String
 |  |
 | ------- |
@@ -83,6 +86,7 @@
 | [0500-keyboard-row](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0925-long-pressed-name](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1528-shuffle-string) |
