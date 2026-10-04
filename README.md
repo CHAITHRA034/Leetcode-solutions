@@ -13,6 +13,7 @@
 | [0001-two-sum](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
