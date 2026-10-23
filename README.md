@@ -17,6 +17,7 @@
 | [0035-search-insert-position](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
