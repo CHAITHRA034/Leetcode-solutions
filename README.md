@@ -42,6 +42,7 @@
 | [0125-valid-palindrome](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -79,6 +80,7 @@
 | [0001-two-sum](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -155,6 +158,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
