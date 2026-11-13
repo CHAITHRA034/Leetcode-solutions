@@ -15,6 +15,7 @@
 | [0016-3sum-closest](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -159,6 +160,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
