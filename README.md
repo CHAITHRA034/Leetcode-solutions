@@ -16,6 +16,7 @@
 | [0031-next-permutation](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -113,6 +114,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -176,4 +178,5 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
