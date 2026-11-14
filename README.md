@@ -28,6 +28,7 @@
 | [0219-contains-duplicate-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0268-missing-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 ## String
