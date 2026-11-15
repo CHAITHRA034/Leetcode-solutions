@@ -173,6 +173,7 @@
 | [0066-plus-one](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0268-missing-number) |
+| [2235-add-two-integers](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
 ## Dynamic Programming
 |  |
