@@ -174,6 +174,7 @@
 | [0202-happy-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
 ## Dynamic Programming
 |  |
@@ -192,4 +193,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
