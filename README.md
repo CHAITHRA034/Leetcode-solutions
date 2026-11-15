@@ -177,6 +177,7 @@
 | [0066-plus-one](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0268-missing-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
