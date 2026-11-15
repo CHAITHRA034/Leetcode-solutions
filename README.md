@@ -26,6 +26,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -88,6 +90,7 @@
 | [0202-happy-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -140,6 +143,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -182,4 +186,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
