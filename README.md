@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -176,6 +177,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0202-happy-number) |
@@ -209,4 +211,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
