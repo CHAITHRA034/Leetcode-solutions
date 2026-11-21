@@ -39,6 +39,7 @@
 | [1512-number-of-good-pairs](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1920-build-array-from-permutation](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2942-find-words-containing-character](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [1920-build-array-from-permutation](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
