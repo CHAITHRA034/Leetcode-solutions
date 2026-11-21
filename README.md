@@ -35,6 +35,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -69,6 +70,7 @@
 | [0242-valid-anagram](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -225,4 +228,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
