@@ -127,6 +127,7 @@
 | [1528-shuffle-string](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -163,6 +164,7 @@
 | [0229-majority-element-ii](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
