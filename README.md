@@ -130,6 +130,7 @@
 | [1768-merge-strings-alternately](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
