@@ -38,6 +38,7 @@
 | [0268-missing-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0500-keyboard-row](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -89,6 +90,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/CHAITHRA034/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
